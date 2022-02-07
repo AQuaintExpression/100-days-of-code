@@ -21,5 +21,7 @@
 	Host docker image on AWS EC2 instance
 	Create Jenkins CI/CD pipeline (how?)
 
-**Link to my work:** [GIT Hub repo of project](https://github.com/AQuaintExpression/health_tracker)
+**Link to my work:** [Health Tracker](https://github.com/AQuaintExpression/health_tracker)
+
+
 
