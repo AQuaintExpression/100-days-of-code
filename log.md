@@ -14,6 +14,7 @@
 ### Day 1: Feb 7, 2022
 **Today's Progress:**
 	Started a health tracking app
+	Implemented the project + app + model
 
 **Thoughts:**
 	Need to create a docker image
