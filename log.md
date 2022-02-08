@@ -25,4 +25,13 @@
 **Link to my work:** [Health Tracker](https://github.com/AQuaintExpression/health_tracker)
 
 
+### Day 2: Feb 8, 2022
+**Today's Plan:**
+	Build 1 algorithm visualizer
 
+**Today's Progress:**
+
+**Thoughts:**
+	Implement using a simple matplotlib visualization
+
+**Link to my work:** [Bubble_Sort_vizualizer](https://github.com/AQuaintExpression/python_alghoritm_vizualizers)
