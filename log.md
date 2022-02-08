@@ -30,8 +30,9 @@
 	Build 1 algorithm visualizer
 
 **Today's Progress:**
+	Built a bubble sort visualizer with matplotlib as a frontend
 
 **Thoughts:**
-	Implement using a simple matplotlib visualization
+	Need to add more generators to my code
 
-**Link to my work:** [Bubble_Sort_vizualizer](https://github.com/AQuaintExpression/python_alghoritm_vizualizers)
+**Link to my work:** [Bubble_Sort_vizualizer](https://github.com/AQuaintExpression/python_alghoritm_vizualizers/tree/master/bubbleSortViz)
