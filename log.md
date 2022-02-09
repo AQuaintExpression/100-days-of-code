@@ -41,3 +41,10 @@
 [Audioline](https://github.com/AQuaintExpression/AudioLine)
 
 
+### Day 3: Feb 9, 2022 - Part 1
+**Today's Plan:
+1. Quick session --> implement basic menu for a cli youtube media (audio player)
+
+**Today's Progress:**
+
+**Thoughts:**
