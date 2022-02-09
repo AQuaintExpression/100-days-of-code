@@ -46,5 +46,6 @@
 1. Quick session --> implement basic menu for a cli youtube media (audio player)
 
 **Today's Progress:**
+2. CLI frontend template done, using PyInquirer
 
 **Thoughts:**
