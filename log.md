@@ -44,6 +44,7 @@
 ### Day 3: Feb 9, 2022 - Part 1
 **Today's Plan:
 1. Quick session --> implement basic menu for a cli youtube media (audio player)
+2. continue frontend implementation
 
 **Today's Progress:**
 2. CLI frontend template done, using PyInquirer
