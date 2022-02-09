@@ -31,8 +31,13 @@
 
 **Today's Progress:**
 	Built a bubble sort visualizer with matplotlib as a frontend
+	Cloned a non functioning repo and made it work
 
 **Thoughts:**
 	Need to add more generators to my code
 
-**Link to my work:** [Bubble_Sort_vizualizer](https://github.com/AQuaintExpression/python_alghoritm_vizualizers/tree/master/bubbleSortViz)
+**Link to my work:** 
+[Bubble_Sort_vizualizer](https://github.com/AQuaintExpression/python_alghoritm_vizualizers/tree/master/bubbleSortViz)
+[Audioline](https://github.com/AQuaintExpression/AudioLine)
+
+
