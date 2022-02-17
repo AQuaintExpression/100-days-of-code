@@ -50,3 +50,16 @@
 2. CLI frontend template done, using PyInquirer
 
 **Thoughts:**
+
+
+### Day 4: Feb 18, 2022
+**Today's Plan:**
+	set up initial django project for WL app
+
+**Today's progress:**
+1. Implemented 3 of the 4 ClassBasedViews for the app (at least of the ones planned)
+2. Created the db
+3. Created the form.
+
+**Thoughts**
+1. Need to go through this again soon
